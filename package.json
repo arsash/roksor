@@ -1,0 +1,23 @@
+{
+  "name": "roksor",
+  "version": "1.0.0",
+  "description": "Тестовое задание",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsash/roksor.git"
+  },
+  "author": "Аршалуйс Асланян",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsash/roksor/issues"
+  },
+  "homepage": "https://github.com/arsash/roksor#readme",
+  "devDependencies": {
+    "webpack": "^5.36.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
